@@ -1,4 +1,4 @@
-Hello, I’m Taneya Senn 👋 
+# Hello, I’m Taneya Senn 👋 
 
  欢迎！Welcome to my GitHub! 
  
